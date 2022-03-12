@@ -5,7 +5,8 @@
 # Next build dir
 .next\
 .next/
-
+*.next\
+*.next/
 ### react ###
 .DS_*
 *.log
